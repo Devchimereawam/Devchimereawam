@@ -13,7 +13,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devchimereawam&label=Profile%20views&color=0e75b6&style=flat" alt="devchimereawam" /> </p>
 
 
-![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-000000?style=flat&logo=googlemaps)
+![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-000000?style=flat&logo=googlemaps&logoColor=2ECC71)
+![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-000000?style=flat&logo=googlemaps&logoColor=2ECC71)
+
 
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-000000?style=flat)
