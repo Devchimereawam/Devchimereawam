@@ -16,7 +16,6 @@
 
 
 ![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria%20(Remote)--000000?style=flat&logo=googlemaps)
-![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-000000?style=flat&logo=googlemaps)
 
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-000000?style=flat)
