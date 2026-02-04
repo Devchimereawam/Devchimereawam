@@ -14,7 +14,6 @@
 
 
 ![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-000000?style=flat&logo=googlemaps&logoColor=2ECC71)
-![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-000000?style=flat&logo=googlemaps&logoColor=2ECC71)
 
 
 
