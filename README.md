@@ -1,4 +1,4 @@
-<h1 align="center">Full-Stack Software Engineer | MERN |Python, Flask, Js, C, NextJs | DevOps & CI/CD | Agile |Open-Source | Remote-Ready</h1>
+<h1 align="center">Full-Stack Software Engineer | MERN | Python, Flask, Js, C, NextJs, Django | DevOps & CI/CD | Agile | Responsive Design | Open-Source | Remote-Ready</h1>
 
 
 
