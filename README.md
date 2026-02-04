@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devchimereawam&label=Profile%20views&color=0e75b6&style=flat" alt="devchimereawam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devchimereawam&label=Profile%20views&color=0e75b6&style=flat" alt="devchimereawam" /> </p>
 
 <h3>💼 Open to remote junior software engineering & operations roles — backend, full-stack, and technical operations.</h3>
 
