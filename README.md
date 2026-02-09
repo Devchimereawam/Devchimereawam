@@ -1,11 +1,11 @@
-<h1 align="center">Full-Stack Software Engineer | MERN | Python, CSS, HTML, JavaScript, C | Flask, NextJs, Django | DevOps & CI/CD | Agile | Responsive Design | Open-Source | Remote-Ready</h1>
+<h1 align="center">Full-Stack Software Engineer specializing in MERN & Python | Building scalable systems | Seeking Junior Software Engineering & Internship roles.</h1>
 
 
 
 <h1 align="center">Hi 👋, I'm Chimere Awam Marvel</h1>
 
 
-<h3 align="center">I’m a full-stack software engineer with strong foundations in building scalable, secure, and maintainable systems. I specialize in HTML, CSS, React, Python, Flask, Node.js, WordPress, and designing RESTful APIs, creating architectures that balance performance and developer efficiency. I continuously improve my DevOps and deployment skills to ensure systems are reliable and production-ready. Beyond coding, I bring operational excellence that emphasizes user-centered solutions, clear documentation, and dependable deployments. This combination of technical execution and operational rigor enables me to deliver systems that are both robust and easy to operate.</h3>
+<h3 align="center">I’m a full-stack software engineer with strong foundations in building scalable, secure, and maintainable systems. I specialize in HTML, CSS, React, Python, Flask, Node.js, WordPress, Django, BootStrap, and designing RESTful APIs, creating architectures that balance performance and developer efficiency. I continuously improve my DevOps and deployment skills to ensure systems are reliable and production-ready. Beyond coding, I bring operational excellence that emphasizes user-centered solutions, clear documentation, and dependable deployments. This combination of technical execution and operational rigor enables me to deliver systems that are both robust and easy to operate.</h3>
 
 
 
