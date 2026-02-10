@@ -40,7 +40,7 @@
 
 - 👯 I’m looking to collaborate on [Github-Profiler 2.0/Git Lens](https://github.com/Devchimereawam/MVP.git)
 
-- 🤝 I’m looking for help with [Full-stack DevOps & Deployment Projects/Internships.](https://github.com/Devchimereawam/job-portal.git)
+- 🤝 I’m looking for help with [Job Board Application](https://github.com/Devchimereawam/job-portal.git)
 
 - 📝 I regularly write articles on [https://medium.com/@awamchimere](https://medium.com/@awamchimere)
 
