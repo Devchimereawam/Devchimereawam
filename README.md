@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently working on [Binger streaming platform](https://github.com/Devchimereawam/Binge.git)
 
-- 🌱 I’m currently learning **Advanced React, Next.js 14, TypeScript, shadcn UI, DevOps pipelines, Vue, PHP, System Design**
+- 🌱 I’m currently learning **Advanced React, Next.js, TypeScript, DevOps pipelines, Vue, PHP, System Design**
 
 - 👯 I’m looking to collaborate on [Github-Profiler 2.0/Git Lens](https://github.com/Devchimereawam/MVP.git)
 
