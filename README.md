@@ -19,7 +19,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-000000?style=flat)
 
-<h3>💼 Open to remote junior software engineering & operations roles — backend, full-stack, and technical support.</h3>
+<h3>💼 Open to remote junior software engineering & operations roles — backend, full-stack, and technical roles.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
